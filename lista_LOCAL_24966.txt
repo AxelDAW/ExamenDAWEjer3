@@ -1,8 +1,4 @@
 primera linea examen
 segunda linea examen
-<<<<<<< HEAD
 
 tercera linea examen rama master
-=======
-primera rama examen
->>>>>>> axel
